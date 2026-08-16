@@ -1,0 +1,31 @@
+# Python & Virtual Environment
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+.pytest_cache/
+
+# Environment Variables & Secrets 
+.env
+.env.local
+.env.development
+*.pem
+*.key
+
+# Node / React Frontend
+node_modules/
+/frontend/build
+/frontend/dist
+.eslintcache
+
+# Docker & Logs
+*.log
+docker-compose.override.yml
+
+# IDE & OS Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
