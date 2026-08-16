@@ -33,7 +33,7 @@ Ensure you have **Docker** and **Docker Compose** installed on your system.
 ### 1. Clone the Repository
 ```bash
 git clone [https://github.com/HamaKhdir/geoagentic-saas.git](https://github.com/HamaKhdir/geoagentic-saas.git)
-```bash
+
 cd geoagentic-saas
 ```
 ### 2. Configure Environment Variables
